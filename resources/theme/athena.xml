@@ -58,7 +58,7 @@
     </option>
     <option name="BASH.EXTERNAL_COMMAND">
       <value>
-        <option name="FOREGROUND" value="bcb0" />
+        <option name="FOREGROUND" value="26bda4" />
       </value>
     </option>
     <option name="BASH.HERE_DOC_END">
@@ -114,7 +114,7 @@
     <option name="CONSOLE_CYAN_BRIGHT_OUTPUT" baseAttributes="CONSOLE_CYAN_OUTPUT" />
     <option name="CONSOLE_CYAN_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="bcb0" />
+        <option name="FOREGROUND" value="26bda4" />
       </value>
     </option>
     <option name="CONSOLE_DARKGRAY_OUTPUT" baseAttributes="CONSOLE_GRAY_OUTPUT" />
@@ -161,7 +161,7 @@
     <option name="CONSOLE_YELLOW_BRIGHT_OUTPUT" baseAttributes="CONSOLE_YELLOW_OUTPUT" />
     <option name="CONSOLE_YELLOW_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="e5c07b" />
+        <option name="FOREGROUND" value="e8bf6a" />
       </value>
     </option>
     <option name="CTRL_CLICKABLE">
@@ -195,7 +195,11 @@
         <option name="FOREGROUND" value="87898e" />
       </value>
     </option>
-    <option name="DEFAULT_CLASS_REFERENCE" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="DEFAULT_CLASS_REFERENCE">
+      <value>
+        <option name="FOREGROUND" value="7aa883" />
+      </value>
+    </option>
     <option name="DEFAULT_COMMA">
       <value />
     </option>
@@ -211,7 +215,7 @@
     </option>
     <option name="DEFAULT_DOC_COMMENT_TAG">
       <value>
-        <option name="FOREGROUND" value="2dae84" />
+        <option name="FOREGROUND" value="26bda4" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -225,12 +229,12 @@
     </option>
     <option name="DEFAULT_ENTITY">
       <value>
-        <option name="FOREGROUND" value="e06c75" />
+        <option name="FOREGROUND" value="ef63a5" />
       </value>
     </option>
     <option name="DEFAULT_FUNCTION_CALL">
       <value>
-        <option name="FOREGROUND" value="bcb0" />
+        <option name="FOREGROUND" value="26bda4" />
       </value>
     </option>
     <option name="DEFAULT_FUNCTION_DECLARATION">
@@ -264,7 +268,7 @@
     </option>
     <option name="DEFAULT_LABEL">
       <value>
-        <option name="FOREGROUND" value="2dae84" />
+        <option name="FOREGROUND" value="26bda4" />
       </value>
     </option>
     <option name="DEFAULT_LINE_COMMENT">
@@ -279,7 +283,7 @@
     </option>
     <option name="DEFAULT_METADATA">
       <value>
-        <option name="FOREGROUND" value="2dae84" />
+        <option name="FOREGROUND" value="26bda4" />
       </value>
     </option>
     <option name="DEFAULT_NUMBER">
@@ -289,13 +293,11 @@
     </option>
     <option name="DEFAULT_OPERATION_SIGN">
       <value>
-        <option name="FOREGROUND" value="f4c052" />
+        <option name="FOREGROUND" value="e8bf6a" />
       </value>
     </option>
     <option name="DEFAULT_PREDEFINED_SYMBOL">
-      <value>
-        <option name="FOREGROUND" value="a7b56b" />
-      </value>
+      <value />
     </option>
     <option name="DEFAULT_REASSIGNED_LOCAL_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
     <option name="DEFAULT_REASSIGNED_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
@@ -307,6 +309,12 @@
     <option name="DEFAULT_STRING">
       <value>
         <option name="FOREGROUND" value="98c379" />
+      </value>
+    </option>
+    <option name="DEFAULT_TAG">
+      <value>
+        <option name="FOREGROUND" value="c2c5cb" />
+        <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR">
@@ -411,7 +419,7 @@
     </option>
     <option name="GO_COMMENT_REFERENCE">
       <value>
-        <option name="FOREGROUND" value="9b9da2" />
+        <option name="FOREGROUND" value="aeb1b6" />
       </value>
     </option>
     <option name="GO_EXPORTED_FUNCTION_CALL" baseAttributes="DEFAULT_FUNCTION_CALL" />
@@ -550,7 +558,7 @@
     </option>
     <option name="LOG_WARNING_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="e5c07b" />
+        <option name="FOREGROUND" value="e8bf6a" />
       </value>
     </option>
     <option name="MARKED_FOR_REMOVAL_ATTRIBUTES">
@@ -653,6 +661,11 @@
         <option name="EFFECT_COLOR" value="e60000" />
         <option name="ERROR_STRIPE_COLOR" value="c60000" />
         <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="YAML_ANCHOR">
+      <value>
+        <option name="FOREGROUND" value="e06c75" />
       </value>
     </option>
   </attributes>
